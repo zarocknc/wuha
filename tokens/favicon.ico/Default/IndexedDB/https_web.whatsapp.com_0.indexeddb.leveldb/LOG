@@ -1,0 +1,6 @@
+2023/03/11-22:00:22.425 1e2ab Creating DB /home/sebas/Escritorio/proyectos/nodejs/wuha/tokens/favicon.ico/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/03/11-22:00:22.718 1e2ab Reusing MANIFEST /home/sebas/Escritorio/proyectos/nodejs/wuha/tokens/favicon.ico/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/11-22:00:23.112 1e2b0 Level-0 table #5: started
+2023/03/11-22:00:23.201 1e2b0 Level-0 table #5: 7505 bytes OK
+2023/03/11-22:00:23.378 1e2b0 Delete type=0 #3
+2023/03/11-22:00:23.378 1e2b0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
